@@ -8,11 +8,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 400 400"
+   viewBox="0 0 200 200"
    version="1.1"
    id="svg28"
    sodipodi:docname="unoptimized-icon.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   width="200"
+   height="200">
   <metadata
      id="metadata32">
     <rdf:RDF>
@@ -39,10 +41,10 @@
      inkscape:window-height="1042"
      id="namedview30"
      showgrid="false"
-     showborder="false"
-     inkscape:zoom="1.6345839"
-     inkscape:cx="117.01092"
-     inkscape:cy="199.16535"
+     showborder="true"
+     inkscape:zoom="1.1334529"
+     inkscape:cx="51.789963"
+     inkscape:cy="173.2914"
      inkscape:window-x="8"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
@@ -61,7 +63,10 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:object-nodes="true"
      inkscape:snap-others="true"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     units="px"
+     width="200mm"
+     inkscape:snap-page="true" />
   <defs
      id="defs2">
     <linearGradient
@@ -72,108 +77,6 @@
          offset="0"
          style="stop-color:#333333;stop-opacity:1;" />
     </linearGradient>
-    <inkscape:path-effect
-       only_selected="false"
-       apply_with_weight="true"
-       apply_no_weight="true"
-       helper_size="0"
-       steps="2"
-       weight="33.333333"
-       lpeversion="1"
-       is_visible="true"
-       id="path-effect1572"
-       effect="bspline" />
-    <inkscape:path-effect
-       only_selected="false"
-       apply_with_weight="true"
-       apply_no_weight="true"
-       helper_size="0"
-       steps="2"
-       weight="33.333333"
-       lpeversion="1"
-       is_visible="true"
-       id="path-effect1558"
-       effect="bspline" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect4" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect1329"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect1325"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect967"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect951"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect947"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect943"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect931"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath920">
@@ -368,13 +271,14 @@
      inkscape:groupmode="layer"
      style="display:inline">
     <rect
-       style="display:inline;opacity:1;fill:#fdf6e3;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:inline;opacity:1;fill:#fdf6e3;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect992"
        width="405.12427"
        height="402.51682"
        x="-123.99378"
        y="29.742279"
-       clip-path="url(#clipPath1001)" />
+       clip-path="url(#clipPath1001)"
+       transform="translate(22.334684,-129.89151)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -558,11 +462,13 @@
        id="path947"
        d="m 77.534361,203.44129 c 0.824042,-6.37399 3.569163,-12.42657 9.80458,-18.68085 -3.81279,5.75182 -5.720853,10.48727 -5.855078,18.72044 -1.223496,-0.0466 -3.066599,-0.0338 -3.949502,-0.0396 z"
        style="opacity:1;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:round"
-       clip-path="url(#clipPath993)" />
+       clip-path="url(#clipPath993)"
+       transform="translate(22.334684,-129.89151)" />
     <g
        style="opacity:1;stroke:#cb4b16;stroke-opacity:1"
        id="g953"
-       clip-path="url(#clipPath984)">
+       clip-path="url(#clipPath984)"
+       transform="translate(22.334684,-129.89151)">
       <path
          sodipodi:nodetypes="csc"
          d="m 81.48644,203.70589 c -0.002,-0.16219 -0.004,-0.3244 -0.004,-0.48661 0,-6.58831 2.04689,-13.00345 5.87217,-18.36751"
@@ -585,11 +491,13 @@
        id="path988"
        d="m 109.91785,144.92947 c -0.77327,2.61692 -1.31193,3.24757 -0.37709,7.03183 0.40857,1.40545 0.25987,1.19788 1.14195,1.40238 3.55778,0.20763 5.17807,0.38524 8.29961,-1.53301 0.90339,20.88993 -17.4315,33.55636 -31.643379,32.92977 -5.151434,-16.34798 4.745811,-35.74615 22.578909,-39.83097 z"
        style="opacity:1;fill:#859900;fill-opacity:1;stroke:none;stroke-width:0.05;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-       clip-path="url(#clipPath976)" />
+       clip-path="url(#clipPath976)"
+       transform="translate(22.334684,-129.89151)" />
     <g
        style="fill:#586e75;fill-opacity:1"
        id="g1045"
-       clip-path="url(#clipPath968)">
+       clip-path="url(#clipPath968)"
+       transform="translate(22.334684,-129.89151)">
       <path
          id="path1032"
          style="opacity:1;fill:#586e75;fill-opacity:1;stroke:none;stroke-width:2.99999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -618,7 +526,8 @@
     <g
        style="opacity:1;stroke:#859900;stroke-opacity:1"
        id="g1055"
-       clip-path="url(#clipPath960)">
+       clip-path="url(#clipPath960)"
+       transform="translate(22.334684,-129.89151)">
       <path
          id="path1047"
          style="display:inline;fill:none;stroke:#859900;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -651,11 +560,13 @@
        id="path953"
        d="m 79.377217,308.61487 c -18.0452,-0.55227 -36.152322,-6.84422 -50.412872,-18.22669 -3.58316,-2.86 -11.084611,-9.90194 -10.928415,-10.37741 l 21.481778,-65.39159 -1.171768,-1.17103 -1.17177,-1.17103 0.879742,-2.75061 c 2.255481,-7.052 5.512429,-13.24552 9.356749,-19.19834 1.59722,-2.47325 5.152152,-7.17787 5.394572,-7.17787 0.22525,0 3.40634,4.06033 4.28694,5.4689 0.95156,1.52207 2.525081,4.77954 2.965431,6.15541 0.67806,2.11856 1.219485,3.40082 2.137105,4.73097 1.49635,2.16905 4.164176,3.57365 6.810046,4.07543 1.57752,0.29917 23.960828,0.13935 25.572928,-0.15956 1.84515,-0.34214 3.731065,-1.51044 5.119885,-2.89926 1.396762,-1.39676 1.984702,-2.69091 2.835042,-5.23912 1.12482,-3.37073 3.51915,-7.6296 5.86612,-10.41296 0.49515,-0.58722 1.54202,-1.79552 1.63584,-1.79552 0.29351,0 4.51079,5.94253 6.57237,9.22427 3.25379,5.17956 7.24874,14.37928 8.57245,18.64907 l 0.41208,1.32919 -1.05567,1.05499 c 0,0 -1.27734,1.27654 -1.28788,1.28707 l 21.42997,65.45038 -2.37422,2.58163 c -3.72179,4.04692 -21.63232,21.92534 -49.601914,25.22554 -3.518197,0.41512 -9.783449,0.84651 -13.324539,0.73814 z"
        style="opacity:1;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round"
-       clip-path="url(#clipPath952)" />
+       clip-path="url(#clipPath952)"
+       transform="translate(22.334684,-129.89151)" />
     <g
        style="opacity:1;stroke:#b58900;stroke-opacity:1"
        id="g1426"
-       clip-path="url(#clipPath944)">
+       clip-path="url(#clipPath944)"
+       transform="translate(22.334684,-129.89151)">
       <path
          style="display:inline;fill:none;stroke:#b58900;stroke-width:0.999998;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 18.03593,280.01077 21.48178,-65.3916"
@@ -726,7 +637,8 @@
        cx="66.449905"
        id="ellipse922"
        style="display:inline;opacity:1;fill:#073642;fill-opacity:1;stroke:#073642;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       clip-path="url(#clipPath936)" />
+       clip-path="url(#clipPath936)"
+       transform="translate(22.334684,-129.89151)" />
     <ellipse
        style="display:inline;opacity:1;fill:#073642;fill-opacity:1;stroke:#073642;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse924"
@@ -734,12 +646,14 @@
        cy="241.57726"
        rx="3.0876026"
        ry="3.023047"
-       clip-path="url(#clipPath928)" />
+       clip-path="url(#clipPath928)"
+       transform="translate(22.334684,-129.89151)" />
     <path
        d="M 102.45699,256.48426 A 21.10005,21.100052 0 0 1 81.356944,277.58431 21.10005,21.100052 0 0 1 60.256894,256.48426"
        style="display:inline;opacity:1;fill:none;stroke:#073642;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path926"
-       clip-path="url(#clipPath920)" />
+       clip-path="url(#clipPath920)"
+       transform="translate(22.334684,-129.89151)" />
   </g>
   <g
      inkscape:groupmode="layer"
