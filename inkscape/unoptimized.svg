@@ -40,13 +40,13 @@
      id="namedview30"
      showgrid="false"
      showborder="false"
-     inkscape:zoom="7.86033"
-     inkscape:cx="107.47637"
-     inkscape:cy="157.91648"
+     inkscape:zoom="3.015374"
+     inkscape:cx="194.79046"
+     inkscape:cy="200.71914"
      inkscape:window-x="8"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer7"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-midpoints="true"
@@ -429,17 +429,13 @@
          rx="52.749996"
          ry="52.75" />
       <path
-         id="path247"
-         style="display:inline;opacity:0.2;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 144.70382,280.60651 -29.1623,-89.44897" />
-      <path
-         id="path249"
-         style="display:inline;opacity:0.2;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 18.010413,280.60524 47.172249,191.15769" />
-      <path
          style="opacity:0.2;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 60.256861,256.48428 H 102.45696"
          id="path94" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 81.356911,98.234283 17.203986,279.67731"
+         id="path91" />
     </g>
   </g>
   <g
