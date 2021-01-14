@@ -40,13 +40,13 @@
      id="namedview30"
      showgrid="false"
      showborder="false"
-     inkscape:zoom="3.2166794"
-     inkscape:cx="12.99786"
-     inkscape:cy="218.40148"
+     inkscape:zoom="2.5723553"
+     inkscape:cx="72.926181"
+     inkscape:cy="232.08813"
      inkscape:window-x="8"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer3"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-midpoints="true"
@@ -338,12 +338,13 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="golden stroke"
-     style="display:inline;opacity:1">
+     style="display:none;opacity:1"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer11"
        inkscape:label="branch"
-       style="display:none;opacity:1"
+       style="display:inline;opacity:1"
        sodipodi:insensitive="true">
       <ellipse
          ry="31.649958"
@@ -364,7 +365,7 @@
        inkscape:groupmode="layer"
        id="layer6"
        inkscape:label="leaf"
-       style="display:none;opacity:1"
+       style="display:inline;opacity:1"
        sodipodi:insensitive="true">
       <ellipse
          ry="31.649958"
@@ -385,7 +386,8 @@
        inkscape:groupmode="layer"
        id="layer7"
        inkscape:label="face"
-       style="display:inline;opacity:1">
+       style="display:inline;opacity:1"
+       sodipodi:insensitive="true">
       <ellipse
          style="display:inline;opacity:0.2;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse1002"
@@ -437,18 +439,18 @@
       <path
          id="path1019"
          style="display:inline;opacity:0.2;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 81.356911 98.234283 L 4.9184796 314.4349 " />
+         d="M 81.356911,98.234283 4.9184796,314.4349" />
       <path
          id="path1022"
          style="display:inline;opacity:0.2;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 81.356908 98.234284 L 157.7953 314.43479 " />
+         d="M 81.356908,98.234284 157.7953,314.43479" />
     </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="matoruru"
-     style="display:none;opacity:1">
+     style="display:inline;opacity:1">
     <g
        inkscape:groupmode="layer"
        id="g979"
@@ -524,7 +526,7 @@
         <path
            sodipodi:nodetypes="ccccccc"
            id="path953"
-           d="m 79.214494,309.20713 c -21.4896,-0.0404 -45.362189,-10.09544 -61.204081,-28.60189 l 29.16162,-89.44689 c 8.97365,7.12175 19.507526,12.37885 34.184878,12.57593 16.950678,-0.1807 28.363139,-7.80801 34.184759,-12.57582 l 29.16387,89.6695 c -20.45467,21.42202 -42.17792,28.82036 -65.491046,28.37917 z"
+           d="m 79.214494,309.20713 c -21.4896,-0.0404 -44.606243,-9.65514 -62.008114,-29.52701 l 30.995092,-87.66806 c 9.898844,7.19173 18.478087,11.52514 33.155439,11.72222 16.950678,-0.1807 25.371489,-6.43414 33.155429,-11.72221 l 30.99488,87.66678 c -18.742,21.5895 -42.9796,29.96947 -66.292726,29.52828 z"
            style="display:inline;opacity:1;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round" />
       </g>
       <g
@@ -534,9 +536,9 @@
          style="display:inline;opacity:1"
          sodipodi:insensitive="true">
         <path
-           id="path229"
-           style="opacity:1;fill:none;stroke:#b58900;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 18.010413,280.60524 29.161836,-89.44755 m 68.369421,7.7e-4 A 52.749996,52.75 0 0 1 81.356911,203.73428 52.749996,52.75 0 0 1 47.171368,191.15779 m 97.532452,89.44872 -29.1623,-89.44897 m 29.16175,89.44945 A 84.399948,84.399956 0 0 1 81.356911,309.23428 84.399948,84.399956 0 0 1 18.010027,280.6064" />
+           id="path995"
+           style="display:inline;opacity:1;fill:none;stroke:#b58900;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 114.51217,192.01158 30.99505,87.66727 m 7.9e-4,6.1e-4 A 84.399948,84.399956 0 0 1 81.356911,309.23428 84.399948,84.399956 0 0 1 17.20638,279.68012 M 48.201643,192.01158 17.206594,279.67885 M 114.5128,192.0117 A 52.749996,52.75 0 0 1 81.356911,203.73428 52.749996,52.75 0 0 1 48.201283,192.01191" />
       </g>
     </g>
     <g
