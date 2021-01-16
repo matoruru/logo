@@ -8,11 +8,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 400 400"
+   viewBox="0 0 196 196"
    version="1.1"
    id="svg28"
    sodipodi:docname="unoptimized-icon.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
+   width="196"
+   height="196">
   <metadata
      id="metadata32">
     <rdf:RDF>
@@ -39,14 +41,14 @@
      inkscape:window-height="1042"
      id="namedview30"
      showgrid="false"
-     showborder="false"
-     inkscape:zoom="2.3436741"
-     inkscape:cx="60.376824"
-     inkscape:cy="226.42259"
+     showborder="true"
+     inkscape:zoom="1.5267344"
+     inkscape:cx="191.16616"
+     inkscape:cy="59.208076"
      inkscape:window-x="8"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer4"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-midpoints="true"
@@ -64,7 +66,11 @@
      inkscape:document-rotation="0"
      inkscape:snap-global="true"
      inkscape:snap-text-baseline="true"
-     inkscape:snap-page="true" />
+     inkscape:snap-page="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs2">
     <linearGradient
@@ -99,7 +105,15 @@
        effect="bspline" />
     <inkscape:path-effect
        effect="bspline"
-       id="path-effect4" />
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="0"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1329"
@@ -231,7 +245,7 @@
          transform="rotate(57.529555)" />
     </clipPath>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter135">
       <feFlood
@@ -268,7 +282,7 @@
      id="layer4"
      inkscape:groupmode="layer"
      style="display:inline"
-     sodipodi:insensitive="true">
+     transform="translate(16.643085,-126.83432)">
     <rect
        style="display:inline;opacity:1;fill:#fdf6e3;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:round"
        id="rect992"
@@ -282,7 +296,8 @@
      id="g3035"
      inkscape:label="golden ratio"
      style="display:none;opacity:1"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(16.643085,-126.83432)">
     <circle
        cy="204.17232"
        cx="32.821941"
@@ -341,7 +356,8 @@
      id="g997"
      inkscape:label="center circle"
      style="display:none"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(16.643085,-126.83432)">
     <ellipse
        style="display:inline;opacity:0.15;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="ellipse1129"
@@ -363,7 +379,8 @@
      id="layer14"
      inkscape:label="golden stroke"
      style="display:none;opacity:1"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(16.643085,-126.83432)">
     <g
        inkscape:groupmode="layer"
        id="layer11"
@@ -472,7 +489,8 @@
      id="layer2"
      inkscape:label="matoruru"
      style="display:inline;opacity:1"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(16.643085,-126.83432)">
     <g
        inkscape:groupmode="layer"
        id="g979"
