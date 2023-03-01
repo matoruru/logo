@@ -1,6 +1,6 @@
 # Logo
 
-matoruru logo.
+matoruru's logo.
 
 ## Color
 
