@@ -2,6 +2,8 @@
 
 matoruru's logo.
 
+![matoruru logo](./matoruru400.png)
+
 ## Color
 
 Using the [Solarized](https://ethanschoonover.com/solarized/) color.
