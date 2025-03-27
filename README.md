@@ -61,6 +61,8 @@ Initial release with the Haskell logo.
 
 <img src="https://raw.githubusercontent.com/matoruru/logo/v1.0/matoruru-400x400.png" width="180"/>
 
-### **Draft** - ????/??/??
+### **Draft** - 2020/06/10
+
+Reference: https://x.com/_matoruru/status/1270377263968645120
 
 <img src="https://raw.githubusercontent.com/matoruru/logo/13d902786a8cdb839f76adf9fc017b7e971afb03/matoruru-draft.png" width="180"/>
